@@ -1,0 +1,10 @@
+name: ClansPlugin
+version: '1.0'
+main: ru.yourname.clans.ClansPlugin
+api-version: '1.21'
+author: YourName
+softdepend: [PlaceholderAPI]
+commands:
+  clan:
+    aliases: [c, clans]
+    description: Управление кланами
